@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ActionBar</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_map">Map</string>
+    <string name="alert_message"  translatable="false">To begin, please select your favorite places to add to your town. Then, you\'ll receive news, events and specials from your places.</string>
+
+</resources>
